@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tanvir Siddiqui
 
-<!--
-**tanviru786/tanviru786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Excel & Power BI Enthusiast**  
+💼 Currently exploring data analytics, visualization, and automation  
+📊 Tools: Excel, Power BI, SQL (learning), Python (beginner)  
+🔍 Focus: Reporting automation, business insights, dashboard creation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 📈 I love turning raw data into easy-to-understand visuals.
+- 🧰 Comfortable in Excel and building interactive dashboards in Power BI.
+- 🌱 Currently learning SQL and Python to deepen my analytics skills.
+- 📊 Passionate about helping teams make data-driven decisions.
+
+---
+
+### 🔧 Tech Stack
+
+- **Spreadsheets**: Excel (Advanced Formulas, PivotTables, VBA)  
+- **BI Tools**: Power BI  
+- **Learning**: SQL, Python  
+- **Other**: Git, Power Query, Data Cleaning & Reporting
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 tanvirsiddiqui62800@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanvir-link/) *(update with your real link)*  
+- 📁 [Portfolio](https://your-portfolio-site.com) *(optional)*
+
+---
+
+> “Every chart starts with a cell. Let’s make it count.”
