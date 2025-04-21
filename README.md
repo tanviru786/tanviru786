@@ -28,7 +28,7 @@
 ### 📫 How to Reach Me
 
 - 📧 tanvirsiddiqui62800@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanvir-link/) *(update with your real link)*  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tanvir-link/](https://www.linkedin.com/in/tanvir-siddiqui/))
 - 📁 [Portfolio](https://your-portfolio-site.com) *(optional)*
 
 ---
